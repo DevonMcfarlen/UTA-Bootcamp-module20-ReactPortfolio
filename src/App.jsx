@@ -5,6 +5,8 @@ import Navbar from './components/Navbar'
 import ProfilePicture from './components/ProfilePicture'
 import AboutMe from './components/AboutMe'
 import Work from './components/Work'
+import ContactMe from './components/ContactMe'
+import Resume from './components/Resume'
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
       <section className='content'>
         <AboutMe />
         <Work />
+        <ContactMe />
+        <Resume />
       </section>
 
     </body>
