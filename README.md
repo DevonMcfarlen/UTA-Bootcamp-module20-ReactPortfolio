@@ -12,7 +12,7 @@
   <br>
   Doing this did a lot for helping me to properly understand how to use react at a basic level, in order to get a webpage up and running.
 
-  Link to the webpage: https://devonmcfarlen.github.io/UTA-Bootcamp-module2-challenge-ProfessionalPortfolio/
+  Link to the webpage: https://devonmcfarlen.github.io/UTA-Bootcamp-module20-ReactPortfolio/
 
   ![alt text](./assets/images/website-screenshot.png)
 
