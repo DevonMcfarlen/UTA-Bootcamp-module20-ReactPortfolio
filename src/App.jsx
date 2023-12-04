@@ -1,18 +1,25 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import './assets/css/reset.css'
+import './assets/css/style.css'
+
 import Navbar from './components/Navbar'
+import ProfilePicture from './components/ProfilePicture'
+import AboutMe from './components/AboutMe'
+import Work from './components/Work'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <div>
+    <body>
+      <header>
+        <ProfilePicture />
         <Navbar />
-      </div>
-    </>
+      </header>
+
+      <section className='content'>
+        <AboutMe />
+        <Work />
+      </section>
+
+    </body>
   )
 }
 
