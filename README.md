@@ -14,7 +14,7 @@
 
   Link to the webpage: https://devonmcfarlen.github.io/UTA-Bootcamp-module20-ReactPortfolio/
 
-  ![alt text](./assets/images/website-screenshot.png)
+  ![alt text](./src/assets/images/website-screenshot.png)
 
   ## Questions <a name="questions"></a>
 
