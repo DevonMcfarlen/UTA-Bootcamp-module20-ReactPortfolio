@@ -12,7 +12,7 @@
   <br>
   Doing this did a lot for helping me to properly understand how to use react at a basic level, in order to get a webpage up and running.
 
-  Link to the webpage: https://devonmcfarlen.github.io/UTA-Bootcamp-module20-ReactPortfolio/
+  [Link to the webpage](https://gleaming-khapse-2b8c0d.netlify.app)
 
   ![alt text](./src/assets/images/website-screenshot.png)
 
